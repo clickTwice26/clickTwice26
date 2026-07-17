@@ -1,0 +1,85 @@
+<h1 align="center">Hi, I'm Shagato Chowdhury 👋</h1>
+
+<p align="center">
+  Full-stack engineer — React and Next.js on the front, FastAPI on the back, and Rust when it earns its place.
+</p>
+
+<p align="center">
+  <a href="mailto:shagatoc@gmail.com">Email</a> ·
+  <a href="https://github.com/clickTwice26">GitHub</a>
+</p>
+
+---
+
+### About
+
+I build web applications end to end — the interfaces people touch and the services underneath
+them. Most of my work lives in TypeScript and Python; lately a growing share of it is in Rust.
+I care about clean APIs, sensible data models, and code the next person can actually read.
+
+- 🦀 Learning **Rust** — porting old projects to it and grinding competitive programming
+- 💬 Happy to talk about **web architecture, API design, and FastAPI**
+- 📫 Reach me at **shagatoc@gmail.com**
+
+### Tech
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Selected work
+
+**[team-aquila](https://github.com/clickTwice26/team-aquila)** — Rules-first FastAPI copilot for
+fintech support: investigates each complaint against its transaction history and returns one
+structured, safety-checked JSON verdict. &nbsp;`Python` `FastAPI`
+
+Also building
+[StratifyX-frontend](https://github.com/clickTwice26/StratifyX-frontend) · 
+[EcoTwinESG](https://github.com/clickTwice26/EcoTwinESG) · 
+[bucket-saver](https://github.com/clickTwice26/bucket-saver) · 
+[boilerboss](https://github.com/clickTwice26/boilerboss) · 
+[unihelper](https://github.com/clickTwice26/unihelper)
+
+### GitHub
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=clickTwice26&show_icons=true&hide_border=true&theme=github_dark&hide_title=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=clickTwice26&show_icons=true&hide_border=true&hide_title=true"
+      alt="GitHub stats"
+      height="150"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=clickTwice26&layout=compact&hide_border=true&theme=github_dark&hide_title=true"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=clickTwice26&layout=compact&hide_border=true&hide_title=true"
+      alt="Top languages"
+      height="150"
+    />
+  </picture>
+</p>

@@ -57,31 +57,18 @@ Also building
 [boilerboss](https://github.com/clickTwice26/boilerboss) · 
 [unihelper](https://github.com/clickTwice26/unihelper)
 
-### GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=clickTwice26&show_icons=true&hide_border=true&theme=github_dark&hide_title=true"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=clickTwice26&show_icons=true&hide_border=true&hide_title=true"
-      alt="GitHub stats"
-      height="150"
-    />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=clickTwice26&layout=compact&hide_border=true&theme=github_dark&hide_title=true"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=clickTwice26&layout=compact&hide_border=true&hide_title=true"
-      alt="Top languages"
-      height="150"
-    />
-  </picture>
+  <img alt="Shagato's GitHub stats" src="https://github-readme-stats.shion.dev/api?username=clicktwice26&theme=merko&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=clicktwice26&theme=merko&hide_border=false" /><br/>
+  <img alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=clicktwice26&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-<!-- profile -->
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=clicktwice26&icon=0&color=0" /></a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

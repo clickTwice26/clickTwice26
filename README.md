@@ -46,11 +46,6 @@ I care about clean APIs, sensible data models, and code the next person can actu
 
 ### Selected work
 
-**[team-aquila](https://github.com/clickTwice26/team-aquila)** — Rules-first FastAPI copilot for
-fintech support: investigates each complaint against its transaction history and returns one
-structured, safety-checked JSON verdict. &nbsp;`Python` `FastAPI`
-
-Also building
 [StratifyX-frontend](https://github.com/clickTwice26/StratifyX-frontend) · 
 [EcoTwinESG](https://github.com/clickTwice26/EcoTwinESG) · 
 [bucket-saver](https://github.com/clickTwice26/bucket-saver) · 

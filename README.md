@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shagatoc@gmail.com">Email</a> ·
+  <a href="mailto:shagato.work@gmail.com">Email</a> ·
   <a href="https://github.com/clickTwice26">GitHub</a>
 </p>
 
@@ -19,7 +19,7 @@ I care about clean APIs, sensible data models, and code the next person can actu
 
 - 🦀 Learning **Rust** — porting old projects to it and grinding competitive programming
 - 💬 Happy to talk about **web architecture, API design, and FastAPI**
-- 📫 Reach me at **shagatoc@gmail.com**
+- 📫 Reach me at **shagato.work@gmail.com**
 
 ### Tech
 
@@ -43,14 +43,6 @@ I care about clean APIs, sensible data models, and code the next person can actu
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Selected work
-
-[StratifyX-frontend](https://github.com/clickTwice26/StratifyX-frontend) · 
-[EcoTwinESG](https://github.com/clickTwice26/EcoTwinESG) · 
-[bucket-saver](https://github.com/clickTwice26/bucket-saver) · 
-[boilerboss](https://github.com/clickTwice26/boilerboss) · 
-[unihelper](https://github.com/clickTwice26/unihelper)
 
 ### 📊 GitHub Stats
 

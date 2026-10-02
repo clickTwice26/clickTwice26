@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shagato Chowdhury 👋</h1>
 
 <p align="center">
-  Full-stack engineer — React and Next.js on the front, FastAPI on the back, and Rust when it earns its place.
+  Full-stack engineer — React and Next.js on the front, FastAPI on the back, and Go when it earns its place.
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 ### About
 
 I build web applications end to end — the interfaces people touch and the services underneath
-them. Most of my work lives in TypeScript and Python; lately a growing share of it is in Rust.
+them. Most of my work lives in TypeScript and Python; lately a growing share of it is in Go.
 I care about clean APIs, sensible data models, and code the next person can actually read.
 
-- 🦀 Learning **Rust** — porting old projects to it and grinding competitive programming
+- 🐹 Learning **Go** — porting old projects to it and grinding competitive programming
 - 💬 Happy to talk about **web architecture, API design, and FastAPI**
 - 📫 Reach me at **shagato.work@gmail.com**
 
@@ -27,7 +27,7 @@ I care about clean APIs, sensible data models, and code the next person can actu
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frontend**
